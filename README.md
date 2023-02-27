@@ -41,6 +41,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhutesuraj&show_icons=true&locale=en" alt="bhutesuraj" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhutesuraj&show_icons=true&locale=en&layout=compact" alt="bhutesuraj" />
 </p>
