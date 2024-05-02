@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://bhutesuraj.io)
 <h1 align="center">Hi 👋, I'm Suraj Bhute</h1>
-<h3 align="center">I am AI enthusiast. I love working on AI. Current: Masters in Medical Imaging & Informatics @ IIT Kharagpur.</h3>
+<h3 align="center">I am AI enthusiast. I love working on AI.</h3>
 
 <p align="center">
   <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
