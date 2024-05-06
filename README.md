@@ -11,17 +11,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhutesuraj" alt="bhutesuraj" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning and Image processing**
+- 🔭 I’m currently working on **GenAI, Machine Learning, Deep Learning and Image processing**
 
-- 🌱 I’m currently learning **Algorithms, Probability and Statistics.**
+- 🌱 I’m currently learning **GenAI, LLMOps**
 
-- 👯 I’m looking to collaborate on **Open Hackathons and competitions, New projects on AI in healthcare**
+- 👯 I’m looking to collaborate on **Open Hackathons and competitions, New projects on Generative AI**
 
 - 💬 Ask me about **Python, Machine Learning and Deep Learning**
 
 - 📫 How to reach me **surajrbhute123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1u4CkXt9Ct0aqrvTfNcct_0AQl6zvGuSR](https://drive.google.com/drive/folders/1u4CkXt9Ct0aqrvTfNcct_0AQl6zvGuSR)
 
 - ⚡ Fun fact **Social Work, Loves travelling**
 
